@@ -1,21 +1,12 @@
-# knapsack_problem
+# Knapsack Problem
 
-
--> SOBRE AS INSTANCIAS:
-
-instancia 1: 6 itens e 3 mochilas;
-
-instancia 2: 15 itens e 3 mochilas;
-
-instancia 3: 50 itens e 3 mochilas;
-
-instancia 4: 100 itens e 4 mochilas;
-
-instancia 5: 250 itens e 5 mochilas;
-
-instancia 6: 500 itens e 6 mochilas;
-
-
+## -> SOBRE AS INSTANCIAS:<br>
+instancia 1: 6 itens e 3 mochilas;<br>
+instancia 2: 15 itens e 3 mochilas;<br>
+instancia 3: 50 itens e 3 mochilas;<br>
+instancia 4: 100 itens e 4 mochilas;<br>
+instancia 5: 250 itens e 5 mochilas;<br>
+instancia 6: 500 itens e 6 mochilas;<br>
 
 -> COMO EXECUTAR NO GLPK:
 
