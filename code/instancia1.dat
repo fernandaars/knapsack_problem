@@ -1,0 +1,17 @@
+data;
+
+# Mochila: indice, peso (j,w)
+set Moch :=
+1 50
+2 100
+3 150;
+
+# Items: indice, valor, peso (i,v,p)
+set Item :=
+1 100 8
+2 600 12
+3 1200 13
+4 2400 64
+5 500 22
+6 2000 41;
+end;
